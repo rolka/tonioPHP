@@ -1,0 +1,27 @@
+[01-Dec-2012 14:28:46] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'muhibind_2012'@'localhost' (using password: NO) in /home2/muhibind/public_html/123/index.php on line 3
+[01-Dec-2012 14:29:03] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'muhibind_2012'@'localhost' (using password: NO) in /home2/muhibind/public_html/123/index.php on line 3
+[01-Dec-2012 14:55:32] PHP Parse error:  syntax error, unexpected T_STRING in /home2/muhibind/public_html/123/index.php on line 12
+[01-Dec-2012 14:56:34] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/muhibind/public_html/123/index.php on line 14
+[01-Dec-2012 14:56:37] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/muhibind/public_html/123/index.php on line 14
+[01-Dec-2012 15:15:03] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'muhibind_2012'@'localhost' (using password: YES) in /home2/muhibind/public_html/123/index.php on line 3
+[01-Dec-2012 15:15:03] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home2/muhibind/public_html/123/index.php on line 11
+[01-Dec-2012 15:15:03] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'sean'@'localhost' (using password: NO) in /home2/muhibind/public_html/123/index.php on line 13
+[01-Dec-2012 15:15:03] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/muhibind/public_html/123/index.php on line 13
+[01-Dec-2012 15:15:03] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/muhibind/public_html/123/index.php on line 15
+[01-Dec-2012 15:15:07] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'muhibind_2012'@'localhost' (using password: YES) in /home2/muhibind/public_html/123/index.php on line 3
+[01-Dec-2012 15:15:07] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home2/muhibind/public_html/123/index.php on line 11
+[01-Dec-2012 15:15:07] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'sean'@'localhost' (using password: NO) in /home2/muhibind/public_html/123/index.php on line 13
+[01-Dec-2012 15:15:07] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/muhibind/public_html/123/index.php on line 13
+[01-Dec-2012 15:15:07] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/muhibind/public_html/123/index.php on line 15
+[01-Dec-2012 15:15:08] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'muhibind_2012'@'localhost' (using password: YES) in /home2/muhibind/public_html/123/index.php on line 3
+[01-Dec-2012 15:15:08] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home2/muhibind/public_html/123/index.php on line 11
+[01-Dec-2012 15:15:08] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'sean'@'localhost' (using password: NO) in /home2/muhibind/public_html/123/index.php on line 13
+[01-Dec-2012 15:15:08] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/muhibind/public_html/123/index.php on line 13
+[01-Dec-2012 15:15:08] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/muhibind/public_html/123/index.php on line 15
+[01-Dec-2012 15:15:22] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'muhibind_2012'@'localhost' (using password: YES) in /home2/muhibind/public_html/123/index.php on line 3
+[01-Dec-2012 15:15:22] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home2/muhibind/public_html/123/index.php on line 11
+[01-Dec-2012 15:15:22] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'sean'@'localhost' (using password: NO) in /home2/muhibind/public_html/123/index.php on line 13
+[01-Dec-2012 15:15:22] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home2/muhibind/public_html/123/index.php on line 13
+[01-Dec-2012 15:15:22] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home2/muhibind/public_html/123/index.php on line 15
+[01-Dec-2012 15:15:42] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'muhibind_2012'@'localhost' (using password: YES) in /home2/muhibind/public_html/123/index.php on line 3
+[01-Dec-2012 15:16:07] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home2/muhibind/public_html/123/index.php on line 10
